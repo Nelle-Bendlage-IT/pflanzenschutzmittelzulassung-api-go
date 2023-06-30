@@ -1,0 +1,3 @@
+generate:
+  models: true
+output: models/pflanzenschutzmittel_types.gen.go
