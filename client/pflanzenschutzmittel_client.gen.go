@@ -12,8 +12,8 @@ import (
 	"net/url"
 	"strings"
 
+	. "github.com/Nelle-Bendlage-IT/pflanzenschutzmittelzulassung-api-go/models"
 	"github.com/deepmap/oapi-codegen/pkg/runtime"
-	. "nbit.pflanzenschutzmittelzulassung.api/models"
 )
 
 // RequestEditorFn  is the function signature for the RequestEditor callback function

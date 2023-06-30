@@ -2,5 +2,5 @@ generate:
   client: true
 output: client/pflanzenschutzmittel_client.gen.go
 additional-imports:
-  - package: nbit.pflanzenschutzmittelzulassung.api/models
+  - package: github.com/Nelle-Bendlage-IT/pflanzenschutzmittelzulassung-api-go/models
     alias: .

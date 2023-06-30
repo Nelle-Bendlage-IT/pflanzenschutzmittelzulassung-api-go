@@ -1,4 +1,4 @@
-module nbit.pflanzenschutzmittelzulassung.api
+module github.com/Nelle-Bendlage-IT/pflanzenschutzmittelzulassung-api-go
 
 go 1.20
 
