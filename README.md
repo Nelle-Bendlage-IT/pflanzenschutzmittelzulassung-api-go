@@ -3,6 +3,11 @@ Dieser unoffizielle Client ermöglicht den Zugriff auf die Pflanzenschutzmittelz
 
 Für weitere Informationen und Anleitungen zur Nutzung der Pflanzenschutzmittelzulassung API, verweisen wir auf die offizielle Readme-Datei, die Sie unter folgendem Link finden können: [Pflanzenschutzmittelzulassung-Readme](https://github.com/bundesAPI/pflanzenschutzmittelzulassung-api/blob/main/README.md).
 
+## Installation
+```sh
+go get github.com/Nelle-Bendlage-IT/pflanzenschutzmittelzulassung-api-go
+```
+
 ## Beispiel
 ```go
 import (
